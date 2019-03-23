@@ -10,6 +10,7 @@ namespace AdapterPattern
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
